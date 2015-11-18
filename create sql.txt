@@ -117,3 +117,5 @@ GROUP BY major;
 SELECT name
 FROM student
 WHERE student_id LIKE '%2007%' LIMIT 2;
+
+/*5¹ø±îÁö*/
